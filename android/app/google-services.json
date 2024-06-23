@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722360374581",
+    "project_id": "notes-app-crud-808",
+    "storage_bucket": "notes-app-crud-808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722360374581:android:b472849623d1ae60eca87c",
+        "android_client_info": {
+          "package_name": "com.example.notes_app_firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAStHjFN1zGmHLD-XGU3qFj1FKgBDvc7vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722360374581:android:28d12e14f264705beca87c",
+        "android_client_info": {
+          "package_name": "com.note_app_firebase_crud.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAStHjFN1zGmHLD-XGU3qFj1FKgBDvc7vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
